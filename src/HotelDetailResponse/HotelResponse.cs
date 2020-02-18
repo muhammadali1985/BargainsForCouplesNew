@@ -28,6 +28,7 @@ namespace HotelDetailResponse
     {
         public Hotel Hotel { get; }
         public List<Rate> Rates { get; }
+
         public HotelResponse(Hotel hotel, List<Rate> rates)
       => (Hotel, Rates) = (hotel, rates);
     }

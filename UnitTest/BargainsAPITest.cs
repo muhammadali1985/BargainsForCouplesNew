@@ -44,7 +44,7 @@ namespace UnitTest
                 Formatting = Formatting.Indented
             });
             var expectedResponsestr=GetExpectedHotel();
-            Assert.True(CompareJsonValues(expectedResponsestr, actualresponsestr)); 
+            Assert.True(CompareJsonValues(expectedResponsestr, actualresponsestr));
         }
 
         private static bool CompareJsonValues(string actualValue, string expectedValue)
