@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BargainsAPI\BargainsAPI.csproj" />
+    <ProjectReference Include="..\src\BargainsAPI\BargainsAPI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
