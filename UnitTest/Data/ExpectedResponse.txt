@@ -1,0 +1,52 @@
+﻿[ 
+   { 
+      "hotel":{ 
+         "propertyID":79732,
+         "name":"JAC Canada (CA$)8314",
+         "geoId":279,
+         "rating":3
+      },
+      "rates":[ 
+         { 
+            "rateType":"Stay",
+            "boardType":"No Meals",
+            "value":679.2
+         },
+         { 
+            "rateType":"Stay",
+            "boardType":"Half Board",
+            "value":792.4
+         },
+         { 
+            "rateType":"Stay",
+            "boardType":"Full Board",
+            "value":905.6
+         }
+      ]
+   },
+   { 
+      "hotel":{ 
+         "propertyID":79821,
+         "name":"JAC Canada (CA$)8555",
+         "geoId":279,
+         "rating":3
+      },
+      "rates":[ 
+         { 
+            "rateType":"PerNight",
+            "boardType":"No Meals",
+            "value":594.0
+         },
+         { 
+            "rateType":"PerNight",
+            "boardType":"Half Board",
+            "value":693.0
+         },
+         { 
+            "rateType":"PerNight",
+            "boardType":"Full Board",
+            "value":792.0
+         }
+      ]
+   }
+]
